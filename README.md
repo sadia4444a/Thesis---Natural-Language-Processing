@@ -8,5 +8,5 @@ Thesis Abstract->>Many individuals in today’s digital age rely on the internet
 <br> There is a snapshot of the Created  Dataset.
 <img width="695" alt="dataset" src="https://github.com/sadia4444a/Thesis---Natural-Language-Processing/assets/73788572/0595e78b-7109-4f3b-9ea3-b5fbbbe37ba8">
 
-<br> A summary of the proposed methodology.
+<br>####A summary of the proposed methodology.
 <img width="696" alt="methodology" src="https://github.com/sadia4444a/Thesis---Natural-Language-Processing/assets/73788572/c0d3b180-142f-4f33-8494-c15b806059c1">
